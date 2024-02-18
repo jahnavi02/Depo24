@@ -12,10 +12,10 @@ cd chat-app-react-nodejs
 ```
 Now rename env files from .env.example to .env
 ```shell
-cd public
+cd frontend
 mv .env.example .env
 cd ..
-cd server
+cd backend
 mv .env.example .env
 cd ..
 ```
